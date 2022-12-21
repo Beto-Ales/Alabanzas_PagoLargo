@@ -366,34 +366,373 @@ const updatedSongs = {
     },
     12: {
         key: '',
+const updatedSongs = {
+    0: {
+        key: 'G',
         lyrics: [
             `<h1>
-                El buen Jesús es mi pastor.<br/>
-                Su gracia me sostiene.<br/>
-                Nada me falta, suyo soy<br/>
-                y mío es él por siempre.
+                Todas las promesas del Señor Jesús<br/>
+                Son apoyo poderoso de mi fe;<br/>
+                Mientras viva aquí cercado de su luz,<br/>
+                Siempre en sus promesas confiaré.
             </h1>`,
             `<h1>
-                A pastos tiernos me guiará<br/>
-                Y aguas refrescantes.<br/>
-                En sendas rectas quiero andar,<br/>
-                por amor de tu nombre.
+                Coro:<br/>
+                Grandes, fieles,<br/>
+                Las promesas que el Señor Jesús ha dado;<br/>
+                Grandes, fieles,<br/>
+                En ellas para siempre confiaré.
             </h1>`,
             `<h1>
-                Aunque en el valle oscuro esté<br/>
-                ni un mal, Señor, yo temo<br/>
-                pues tu cayado y vara fiel<br/>
-                me infundirán aliento.
+                Todas sus promesas para el hombre fiel,<br/>
+                El Señor, en sus bondades, cumplirá;<br/>
+                Y confiado sé que para siempre en El<br/>
+                Paz eterna mi alma gozará.
             </h1>`,
             `<h1>
-                El bien y toda tu bondad<br/>
-                me rodearán por siempre<br/>
-                y en tu casa moraré,<br/>
-                Señor eternamente.
+                Coro:<br/>
+                Grandes, fieles,<br/>
+                Las promesas que el Señor Jesús ha dado;<br/>
+                Grandes, fieles,<br/>
+                En ellas para siempre confiaré.
+            </h1>`,
+            `<h1>
+                Todas las promesas del Señor serán<br/>
+                Gozo y fuerza en nuestra vida terrenal;<br/>
+                Ellas en la dura lid nos sostendrán,<br/>
+                Y triunfar podremos sobre el mal.
+            </h1>`,
+            `<h1>
+                Coro:<br/>
+                Grandes, fieles,<br/>
+                Las promesas que el Señor Jesús ha dado;<br/>
+                Grandes, fieles,<br/>
+                En ellas para siempre confiaré.
+            </h1>`
+        ]
+    },
+    1: {
+        key: 'F',
+        lyrics: [
+            `<h1>
+                Grande gozo hay en mi alma hoy,<br/>
+                Pues Jesús conmigo está.<br/>
+                Y su paz que ya gozando estoy,<br/>
+                Por siempre durará.
+            </h1>`,
+            `<h1>
+                Coro:<br/>
+                Grande gozo, cuán hermoso<br/>
+                Cuando paso el tiempo bien feliz.<br/>
+                Porque veo de Cristo la sonriente faz<br/>
+                grande gozo siento en mí.
+            </h1>`,
+            `<h1>
+                Hay un canto en mi alma hoy,<br/>
+                melodías a mi rey.<br/>
+                En su amor feliz y libre soy<br/>
+                y salvo por la fe.
+            </h1>`,
+            `<h1>
+                Coro:<br/>
+                Grande gozo, cuán hermoso<br/>
+                Cuando paso el tiempo bien feliz.<br/>
+                Porque veo de Cristo la sonriente faz<br/>
+                grande gozo siento en mí.
+            </h1>`,
+            `<h1>
+                Paz divina hay en mi alma hoy<br/>
+                porque Cristo me salvó.<br/>
+                Las cadenas rotas ya están.<br/>
+                Jesús me libertó.
+            </h1>`,
+            `<h1>
+                Coro:<br/>
+                Grande gozo, cuán hermoso<br/>
+                Cuando paso el tiempo bien feliz.<br/>
+                Porque veo de Cristo la sonriente faz<br/>
+                grande gozo siento en mí.
             </h1>`,
         ]
     },
-    13: {
+    2: {
+        key: 'F',
+        lyrics: [
+            `<h1>
+                Hallé un buen amigo, mi amado Salvador,<br/>
+                Contaré lo que él ha hecho para mí:<br/>
+                Hallándome perdido e indigno pecador,<br/>
+                Me salvó y ya me guarda para sí.
+            </h1>`,
+            `<h1>
+                Me salva del pecado, me guarda de Satán,<br/>
+                Promete estar conmigo hasta el fin;<br/>
+                El consuela mi tristeza, me quita todo afán,<br/>
+                ¡Grandes cosas Cristo ha hecho para mí!
+            </h1>`,
+            `<h1>
+                Jesús jamás me falta, jamás me dejará,<br/>
+                Es mi fuerte y poderoso protector;<br/>
+                Del mundo yo me aparto y toda vanidad<br/>
+                Para dedicar mi vida a mi Señor.<br/>
+            </h1>`,
+            `<h1>
+                Si el mundo me persigue, si sufro tentación,<br/>
+                Confiando en Cristo puedo resistir;<br/>
+                La victoria me es segura y elevo mi canción,<br/>
+                ¡Grandes cosas Cristo ha hecho para mí!
+            </h1>`,
+            `<h1>
+                Yo sé que Jesucristo muy pronto volverá,<br/>
+                Y entretanto me prepara un lugar<br/>
+                En la casa de mi Padre, mansión de luz y paz,<br/>
+                Donde el creyente fiel con él ha de morar.<br/>
+            </h1>`,
+            `<h1>
+                Llegándome a la gloria, con El yo estaré<br/>
+                Y contemplaré su rostro siempre allí;<br/>
+                Con los santos redimidos gozoso cantaré,<br/>
+                ¡Grandes cosas Cristo ha hecho para mí!
+            </h1>`,
+        ]
+    },
+    3: {
+        key: '',
+        lyrics: [
+            `<h1>
+                Grato es decir la historia del celestial favor,<br/>
+                De Cristo y de su gloria, de Cristo y de su amor.<br/>
+                Me agrada referirla, pues sé que es la verdad;<br/>
+                Y nada satisface cual ella mi ansiedad.
+            </h1>`,
+            `<h1>        
+                CORO<br/>
+                ¡Cuán bella es esa historia!<br/>
+                Mi tema allá en la Gloria<br/>
+                Será la antigua historia<br/>
+                De Cristo y de su amor.
+            </h1>`,
+            `<h1>
+                Grato es decir la historia que antigua, sin vejez,<br/>
+                Parece al repetirla más dulce cada vez;<br/>
+                Me agrada referirla, pues hay quien nunca oyó<br/>
+                Que para hacerle salvo el buen Jesús murió
+            </h1>`,
+            `<h1>        
+                CORO<br/>
+                ¡Cuán bella es esa historia!<br/>
+                Mi tema allá en la Gloria<br/>
+                Será la antigua historia<br/>
+                De Cristo y de su amor.
+            </h1>`,
+            `<h1>
+                Grato es decir la historia; el que la sabe ya,<br/>
+                Parece que de oírla sediento aún está.<br/>
+                Y cuando el nuevo canto en gloria entonaré,<br/>
+                Será la antigua historia que en vida tanto amén.
+            </h1>`,
+            `<h1>        
+                CORO<br/>
+                ¡Cuán bella es esa historia!<br/>
+                Mi tema allá en la Gloria<br/>
+                Será la antigua historia<br/>
+                De Cristo y de su amor.
+            </h1>`,
+        ]
+    },
+    4: {
+        key: 'D',
+        lyrics: [
+            `<h1>
+                Nuestro canto expresa un sentir,<br/>
+                y es preciso que se pueda a oír,<br/>
+                en las calles, en las plazas,<br/>
+                en los campos, las montañas,<br/>
+                a lo largo y a lo ancho del país.
+            </h1>`,        
+            `<h1>
+                Jesucristo es la verdad,<br/>
+                nuestra fe y nuestro compromiso.<br/>
+                Él es la vida en plenitud,<br/>
+                él es la fuerza y es la luz, <br/>
+                es la alegría que me alienta a continuar.<br/>                
+            </h1>`,
+            `<h1>
+                Es el poder para cambiar<br/>
+                toda una vida y darle más.<br/>
+                Jesucristo es la razón para vivir.
+            </h1>`,
+            `<h1>
+                Este es el momento para actuar<br/>
+                En cada rincón, cada lugar.<br/>
+                Nuestra patria necesita <br/>
+                actitudes decididas<br/>
+                de cristianos que se jueguen de verdad.
+            </h1>`,
+            `<h1>
+                Jesucristo es la verdad,<br/>
+                nuestra fe y nuestro compromiso.<br/>
+                Él es la vida en plenitud,<br/>
+                él es la fuerza y es la luz, <br/>
+                es la alegría que me alienta a continuar.<br/>                
+            </h1>`,
+            `<h1>
+                Es el poder para cambiar<br/>
+                toda una vida y darle más.<br/>
+                Jesucristo es la razón para vivir.
+            </h1>`,
+        ]
+    },
+    5: {
+        key: '',
+        lyrics: [
+            `<h1>
+                A Cristo coronad, divino Salvador;<br/>
+                sentado en alta majestad es digno de loor;<br/>
+                Al Rey de gloria y paz loores tributad,<br/>
+                y bendecid al Inmortal por toda eternidad.
+            </h1>`,
+            `<h1>
+                A Cristo coronad, Señor de nuestro amor;<br/>
+                al Rey triunfante celebrad, glorioso vencedor;<br/>
+                Potente Rey de paz, el triunfo consumó,<br/>
+                y por Su muerte de dolor Su grande amor mostró.
+            </h1>`,
+            `<h1>
+                A Cristo coronad, Señor de vida y luz;<br/>
+                con alabanzas proclamad los triunfos de la cruz;<br/>
+                A Él solo adorad, Señor de salvación;<br/>
+                Loor eterno tributad de todo corazón.
+            </h1>`,
+        ]
+    },
+    6: {
+        key: 'G',
+        lyrics: [
+            `<h1>
+                Majestad, gloria a su majestad.<br/>
+                Jesucristo merece todo honor.<br/>
+                Majestad, reino y autoridad.<br/>
+                Suyo el honor, suyo el poder. ¡Gloria a él!
+            </h1>`,
+            `<h1>
+                Exaltad, engrandeced su santo nombre.<br/>
+                Alabad, magnificad a Cristo, el rey.<br/>
+                Majestad, gloria a su majestad.<br/>
+                Cristo murió, resucitó y hoy es Señor.<br/>
+                Cristo murió, resucitó. ¡Gloria a él!
+            </h1>`,
+        ]
+    },
+    7: {
+        key: 'G',
+        lyrics: [
+            `<h1>
+                Maravilloso Dios,<br/>
+                tú permaneces siempre fiel.<br/>
+                Tu gloria y tu poder<br/>
+                llenan mi vida de tu ser.
+            </h1>`,
+            `<h1>
+                Sosténme con tu amor,<br/>
+                Pon la victoria y tu perdón.<br/>
+                Desde mi corazón te canto hoy.
+            </h1>`,
+        ]
+    },
+    8: {
+        key: 'A',
+        lyrics: [
+            `<h1>
+                Mi Cristo, mi rey,<br/>
+                Nadie es como tú.<br/>
+                Toda mi vida quiero exaltar<br/>
+                Las maravillas de tu amor.
+            </h1>`,
+            `<h1>
+                Consuelo, refugio, <br/>
+                torre de fuerza y poder.<br/>
+                Todo mi ser, lo que yo soy<br/>
+                Nunca deje de alabar.
+            </h1>`,
+            `<h1>
+                Cante al Señor toda la creación.<br/>
+                Honra y poder, majestad sea al rey.<br/>
+                Montes caerán y el mar rugirá<br/>
+                al sonar de tu nombre.
+            </h1>`,
+            `<h1>
+                Canto con gozo al mirar tu poder.<br/>
+                Por siempre yo te amaré y diré:<br/>
+                Incomparables promesas me das Señor.
+            </h1>`,
+        ]
+    },
+    9: {
+        key: 'C',
+        lyrics: [
+            `<h1>
+                Padre del cielo, te adoramos<br/>
+                Y alzamos hoy tu nombre en alto.<br/>
+                Que tu reino se establezca en alabanza<br/>
+                De tu pueblo que hoy declara tu poder.
+            </h1>`,
+            `<h1>
+                Bendito sea el Señor, Dios poderoso,<br/>
+                quien fue y quien es y quien vendrá.<br/>
+                Bendito sea el Señor, Dios poderoso,<br/>
+                Por siempre reinará.
+            </h1>`,
+        ]
+    },
+    10: {
+        key: 'F',
+        lyrics: [
+            `<h1>
+                Al estar en la presencia de tu divinidad<br/>
+                Y al contemplar la hermosura de tu santidad,<br/>
+                Mi espíritu se alegra en tu majestad.<br/>
+                Te adoro a ti, te adoro a ti.
+            </h1>`,
+            `<h1>
+                Cuando veo la grandeza de tu dulce amor<br/>
+                y compruebo la pureza de tu corazón<br/>
+                mi espíritu se alegra en tu majestad.<br/>
+                Te adoro a ti, te adoro a ti.
+            </h1>`,
+            `<h1>
+                Y al estar aquí, delante de ti, te adoraré.<br/>
+                Postrado ante ti mi corazón te adora, oh Dios.<br/>
+                Y siempre quiero estar para adorar <br/>
+                y contemplar tu santidad.<br/>
+                Te adoro a ti, Señor, te adoro a ti.
+            </h1>`,
+        ]
+    },
+    11: {
+        key: 'A',
+        lyrics: [
+            `<h1>
+                El Señor es mi pastor,<br/>
+                nada me faltará.<br/>
+                El Señor es mi pastor,<br/>
+                En pastos delicados<br/>
+                me hará descansar.
+            </h1>`,
+            `<h1>
+                Junto a aguas de reposo<br/>
+                me pastoreará.<br/>
+                Confortará mi alma,<br/>
+                me guiará por sendas de justicia<br/>
+                por amor de su nombre.
+            </h1>`,
+            `<h1>
+                El Señor es mi pastor,<br/>
+                nada me faltará.
+            </h1>`,
+        ]
+    },    
+    12: {
         key: 'D',
         lyrics: [
             `<h1>
@@ -433,7 +772,7 @@ const updatedSongs = {
             </h1>`,
         ]
     },
-    14: {
+    13: {
         key: 'C',
         lyrics: [
             `<h1>
@@ -477,7 +816,7 @@ const updatedSongs = {
             </h1>`,
         ]
     },
-    15: {
+    14: {
         key: 'E',
         lyrics: [
             `<h1>
@@ -500,7 +839,7 @@ const updatedSongs = {
             </h1>`,
         ]
     },
-    16: {
+    15: {
         key: 'A',
         lyrics: [
             `<h1>
@@ -522,7 +861,7 @@ const updatedSongs = {
             </h1>`,
         ]
     },
-    17: {
+    16: {
         key: 'C',
         lyrics: [
             `<h1>
@@ -539,7 +878,7 @@ const updatedSongs = {
             </h1>`,
         ]
     },
-    18: {
+    17: {
         key: 'D',
         lyrics: [
             `<h1>
@@ -549,7 +888,7 @@ const updatedSongs = {
             </h1>`,
         ]
     },
-    19: {
+    18: {
         key: 'C',
         lyrics: [
             `<h1>
@@ -566,7 +905,7 @@ const updatedSongs = {
             </h1>`,
         ]
     },
-    20: {
+    19: {
         key: 'F',
         lyrics: [
             `<h1>    
@@ -617,7 +956,7 @@ const updatedSongs = {
             </h1>`,
         ]
     },
-    21: {
+    20: {
         key: 'E',
         lyrics: [
             `<h1>
@@ -658,8 +997,8 @@ const updatedSongs = {
             </h1>`,
         ]
     },
-    22: {
-        key: '',
+    21: {
+        key: 'D',
         lyrics: [
             `<h1>
                 No es sólo ser porque sí, <br/>
@@ -697,7 +1036,7 @@ const updatedSongs = {
             </h1>`,
         ]
     },
-    23: {
+    22: {
         key: 'D',
         lyrics: [
             `<h1>
@@ -741,8 +1080,8 @@ const updatedSongs = {
             </h1>`,
         ]
     },
-    24: {
-        key: '',
+    23: {
+        key: 'A',
         lyrics: [
             `<h1>
                 ¡Oh, Santísimo, felicísimo,<br/>
@@ -764,7 +1103,7 @@ const updatedSongs = {
             </h1>`,
         ]
     },
-    25: {
+    24: {
         key: 'D',
         lyrics: [
             `<h1>
@@ -777,10 +1116,20 @@ const updatedSongs = {
                 Gloria a Dios en lo alto.<br/>
                 Gloria a Dios en lo alto.
             </h1>`,
+            `<h1>
+                Los pastores sin cesar<br/>
+                Sus loores dan a Dios<br/>
+                Cuán glorioso es el cantar<br/>
+                De su melodiosa voz
+            </h1>`,
+            `<h1>    
+                Gloria a Dios en lo alto.<br/>
+                Gloria a Dios en lo alto.
+            </h1>`,
         ]
     },
-    26: {
-        key: '',
+    25: {
+        key: 'A',
         lyrics: [
             `<h1>
                 El regalo de Dios es Cristo,<br/>
@@ -788,7 +1137,21 @@ const updatedSongs = {
                 Y con él te ofrece la vida, paz,<br/>
                 Y allá en el cielo un lugar.
             </h1>`,
-            `<h1>            
+            `<h1>
+                CORO:<br/>
+                El regalo de Dios es Cristo.<br/>
+                Feliz quien lo quiera aceptar.<br/>
+                No hay nadie que pueda dar más.<br/>
+                Ven a Cristo hoy en Navidad.
+            </h1>`,
+            `<h1>
+                Entre luces parpadeantes<br/>
+                el mundo va a festejar<br/>
+                pero luz en el alma, felicidad,<br/>
+                tan sólo en Cristo encontrarán.
+            </h1>`,
+            `<h1>
+                CORO:<br/>   
                 El regalo de Dios es Cristo.<br/>
                 Feliz quien lo quiera aceptar.<br/>
                 No hay nadie que pueda dar más.<br/>
@@ -796,62 +1159,84 @@ const updatedSongs = {
             </h1>`,
         ]
     },
-    27: {
-        key: '',
+    26: {
+        key: 'F',
         lyrics: [
             `<h1>
                 Noche de paz, noche de amor. <br/>
                 Todo duerme en derredor. <br/>
                 Entre los astros que esparcen su luz, <br/>
                 bella anunciando al niñito Jesús, <br/>
-                brilla la estrella de paz, <br/>
+                brilla la estrella de paz,<br/>
                 brilla la estrella de paz.
+            </h1>`,
+            `<h1>
+                Noche de paz, noche de amor.<br/>
+                Ved que bello resplandor<br/> 
+                luce en el rostro del niño Jesús.<br/> 
+                En el pesebre del mundo la luz.<br/> 
+                Astro de eterno fulgor.<br/> 
+                Astro de eterno fulgor.
             </h1>`,
         ]
     },
-    28: {
-        key: '',
+    27: {
+        key: 'D',
         lyrics: [
             `<h1>
                 CRISTO NACIÓ, CRISTO NACIÓ<br/>
                 REGALO DE DIOS, SU HIJO NOS DIO<br/>
                 FUE EN BELÉN, FUE EN BELÉN,<br/>
                 ÁNGELES MIL CANTARON ASÍ.<br/>
-                ALELUYA
+                ////ALELUYA//// AMÉN.
             </h1>`,
         ]
     },
-    29: {
-        key: '',
+    28: {
+        key: 'A',
         lyrics: [
             `<h1>
                 No se había visto nunca tanta gente en Belén,<br/>
                 ciudad tan pequeñita olvidada en el ayer,<br/>
-                hasta que un simple censo los atrajo hasta el lugar<br/>
-                y entre el tumulto, un niño en la panza de su mamá.
+                hasta que un simple censo<br/> 
+                los atrajo hasta el lugar<br/>
+                y entre el tumulto, un niño<br/>
+                en la panza de su mamá.
             </h1>`,
             `<h1>    
                 Corren de un lado a otro trabajando sin parar.<br/>
-                Una vez que hay trabajo lo tienen que aprovechar.<br/>
+                Una vez que hay trabajo<br/>
+                lo tienen que aprovechar.<br/>
                 Y al hospedar a todos la posada se llenó.<br/>
                 Para José y María ya no queda ni un rincón.
             </h1>`,
             `<h1>
+                CORO:<br/>
                 Nadie guardó un lugar para que tú nacieras.<br/>
                 Para el niño del cielo no hay lugar en la tierra.<br/>
                 Tú que viniste a dar por amor la vida entera,<br/>
-                has recibido un “No”. No hay lugar para que vengas.
+                has recibido un “No”.<br/>
+                No hay lugar para que vengas.
             </h1>`,
             `<h1>
-                Pensar que todo el pueblo ha esperado un Salvador<br/>
+                Pensar que todo el pueblo<br/>
+                ha esperado un Salvador<br/>
                 y cuando llega el tiempo no le prestan atención.<br/>
                 Están tan satisfechos al ver lleno su mesón,<br/>
                 no logran ver tu hora y te cierran el portón.
             </h1>`,
+            `<h1>
+                CORO:<br/>
+                Nadie guardó un lugar para que tú nacieras.<br/>
+                Para el niño del cielo no hay lugar en la tierra.<br/>
+                Tú que viniste a dar por amor la vida entera,<br/>
+                has recibido un “No”.<br/>
+                No hay lugar para que vengas.
+            </h1>`,
         ]
     },
-    30: {
-        key: '',
+    29: {
+        key: 'D',
         lyrics: [
             `<h1>
                 Allá en el pesebre, do nace Jesús,<br/>
@@ -873,8 +1258,8 @@ const updatedSongs = {
             </h1>`,
         ]
     },
-    31: {
-        key: '',
+    30: {
+        key: 'G',
         lyrics: [
             `<h1>
                 A medianoche en Belén un canto sin igual<br/>
@@ -896,8 +1281,8 @@ const updatedSongs = {
             </h1>`,
         ]
     },
-    32: {
-        key: '',
+    31: {
+        key: 'D',
         lyrics: [
             `<h1>
                 ¡CAMPANA POR DOQUIER<br/>
@@ -931,11 +1316,11 @@ const updatedSongs = {
             </h1>`,
         ]
     },
-    33: {
+    32: {
         key: 'D',
         lyrics: [
             `<h1>
-                Se oye un son en alta esfera:<br/>
+                Oíd un son en alta esfera:<br/>
                 “¡en los cielos gloria a Dios!<br/>
                 ¡Al mortal paz en la tierra!”<br/>
                 Canta la celeste voz,
@@ -978,8 +1363,8 @@ const updatedSongs = {
             </h1>`,
         ]
     },
-    34: {
-        key: '',
+    33: {
+        key: 'D',
         lyrics: [
             `<h1>
                 Ve, dilo en las montañas,<br/>
@@ -1008,7 +1393,7 @@ const updatedSongs = {
             </h1>`,
         ]
     },
-    35: {
+    34: {
         key: 'D',
         lyrics: [
             `<h1>
@@ -1063,22 +1448,6 @@ const updatedSongs = {
             </h1>`,
         ]
     },
-    // 0: {
-    //     key: '',
-    //     lyrics: []
-    // },
-    // 0: {
-    //     key: '',
-    //     lyrics: []
-    // },
-    // 0: {
-    //     key: '',
-    //     lyrics: []
-    // },
-    // 0: {
-    //     key: '',
-    //     lyrics: []
-    // },
 }
 
 export default updatedSongs
