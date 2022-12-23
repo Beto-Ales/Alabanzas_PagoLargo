@@ -118,7 +118,7 @@ const updatedSongs = {
                 Yo sé que Jesucristo muy pronto volverá,<br/>
                 Y entretanto me prepara un lugar<br/>
                 En la casa de mi Padre, mansión de luz y paz,<br/>
-                Donde el creyente fiel con él ha de morar.<br/>
+                Do el creyente fiel con él ha de morar.<br/>
             </h1>`,
             `<h1>
                 Llegándome a la gloria, con El yo estaré<br/>
@@ -129,7 +129,7 @@ const updatedSongs = {
         ]
     },
     3: {
-        key: '',
+        key: 'F',
         lyrics: [
             `<h1>
                 Grato es decir la historia del celestial favor,<br/>
@@ -161,7 +161,7 @@ const updatedSongs = {
                 Grato es decir la historia; el que la sabe ya,<br/>
                 Parece que de oírla sediento aún está.<br/>
                 Y cuando el nuevo canto en gloria entonaré,<br/>
-                Será la antigua historia que en vida tanto amén.
+                Será la antigua historia que en vida tanto amé.
             </h1>`,
             `<h1>        
                 CORO<br/>
@@ -216,7 +216,7 @@ const updatedSongs = {
         ]
     },
     5: {
-        key: '',
+        key: 'C',
         lyrics: [
             `<h1>
                 A Cristo coronad, divino Salvador;<br/>
