@@ -499,14 +499,14 @@ const updatedSongs = {
             `<h1>
                 Yo vivo, Señor, porque tú vives.<br/>
                 Porque tú vives, Señor, es que yo vivo.<br/>
-                Me das consuelo, me das abrigo<br/>
-                y en la aflicción, mi Señor, estás conmigo.
+                // Me das consuelo, me das abrigo<br/>
+                y en la aflicción, mi Señor, estás conmigo. //
             </h1>`,
             `<h1>            
                 Soy salvo, Señor, tú me salvaste,<br/>
                 Tú me salvaste, Señor, eternamente<br/>
-                Yo voy al cielo, voy a la gloria,<br/>
-                porque, Señor, tú me diste la victoria.
+                // Yo voy al cielo, voy a la gloria,<br/>
+                porque, Señor, tú me diste la victoria. //
             </h1>`,
         ]
     },
@@ -773,7 +773,7 @@ const updatedSongs = {
                 CORO:<br/>
                 El regalo de Dios es Cristo.<br/>
                 Feliz quien lo quiera aceptar.<br/>
-                No hay nadie que pueda dar más.<br/>
+                No hay nadie que pueda dar paz.<br/>
                 Ven a Cristo hoy en Navidad.
             </h1>`,
             `<h1>
@@ -786,7 +786,7 @@ const updatedSongs = {
                 CORO:<br/>   
                 El regalo de Dios es Cristo.<br/>
                 Feliz quien lo quiera aceptar.<br/>
-                No hay nadie que pueda dar más.<br/>
+                No hay nadie que pueda dar paz.<br/>
                 Ven a Cristo hoy en Navidad.
             </h1>`,
         ]
@@ -1011,17 +1011,22 @@ const updatedSongs = {
                 Gloriosa luz brillar.
             </h1>`,
             `<h1>    
-                -Coro-<br/>
-                Después muy asombrados<br/>
-                Oyeron un cantar,<br/>
-                De ángeles en coro<br/>
-                Las nuevas proclamar
+                Ve, dilo en las montañas,<br/>
+                En todas partes y alrededor<br/>
+                Ve, dilo en las montañas<br/>
+                Que Cristo el Rey nació.
             </h1>`,
             `<h1>    
                 En un pesebre humilde<br/>
                 El Cristo ya nació<br/>
                 De Dios amor sublime<br/>
                 Al mundo descendió.
+            </h1>`,
+            `<h1>    
+                Ve, dilo en las montañas,<br/>
+                En todas partes y alrededor<br/>
+                Ve, dilo en las montañas<br/>
+                Que Cristo el Rey nació.
             </h1>`,
         ]
     },
