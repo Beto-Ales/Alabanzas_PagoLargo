@@ -1085,6 +1085,265 @@ const updatedSongs = {
             </h1>`,
         ]
     },
+    35: {
+        key: '',
+        lyrics: [
+            `<h1>
+                In the bleak midwinter frosty wind made moan<br/>
+                Earth stood hard as iron, water like a stone<br/>
+                Snow had fallen, snow on snow, snow on snow<br/>
+                In the bleak midwinter long ago
+            </h1>`,
+            `<h1>
+                Our God, heav’n cannot hold Him nor earth sustain<br/>
+                Heav’n and earth shall flee away when He comes to reign<br/>
+                In the bleak midwinter a stable place sufficed<br/>
+                For the Lord, God Almighty, Jesus Christ
+            </h1>`,
+            `<h1>
+                Gloria, Gloria! Now my eyes have seen<br/>
+                Soli Deo Gloria! He salvation brings<br/>
+                As the Lord has promised, I may go in peace
+            </h1>`,
+            `<h1>
+                What can I give Him poor as I am<br/>
+                If I were a shepherd I would bring a lamb<br/>
+                If I were a Wise Man I would do my part<br/>
+                Yet what can I give him? Give my heart
+            </h1>`,
+            `<h1>
+                // Gloria, Gloria! Now my eyes have seen<br/>
+                Soli Deo Gloria! He salvation brings //<br/>
+                In the bleak midwinter I may go in peace<br/>
+                As the Lord has promised, I may go in peace
+            </h1>`,
+        ]
+    },
+    36: {
+        key: '',
+        lyrics: [
+            `<h1>
+                Jesus, joy of the highest heaven,<br/>
+                Born as a little baby<br/>
+                Under a wondrous star.<br/>
+                Like us, crying he takes His first breath<br/>
+                Held by His mother, helpless<br/>
+                Close to her beating heart.
+            </h1>`,
+            `<h1>
+                Jesus, laid in a lowly manger,
+                Facing a world of dangers,
+                Come to turn me a stranger
+                Into a child of God.
+            </h1>`,
+            `<h1>
+                Jesus, King of the highest heaven<br/>
+                Learning to take His first steps,<br/>
+                That He might bring us life.<br/>
+                Like us, knowing our smiles and sorrows,<br/>
+                He showed the way to follow,<br/>
+                A way that is true and right.
+            </h1>`,
+            `<h1>
+                Jesus, take away every darkness,<br/>
+                Steady my simple footsteps<br/>
+                That I might in your goodness<br/>
+                Live as a child of God.
+            </h1>`,
+        ]
+    },
+    37: {
+        key: '',
+        lyrics: [
+            `<h1>
+                Jesus loves me, this I know<br/>
+                for the Bible tells me so.<br/>
+                Little ones to Him belong,<br/>
+                they are weak but He is strong.
+            </h1>`,
+            `<h1>
+                Yes, Jesus loves me!<br/>
+                Yes, Jesus loves me!<br/>
+                Yes, Jesus loves me!<br/>
+                The Bible tells me so.<br/>
+                The Bible tells me so.
+            </h1>`,
+            `<h1>
+                Jesus, tender Shepherd, hear me,<br/>
+                bless Thy little lamb tonight.<br/>
+                Through the darkness be Thou near me.<br/>
+                Watch my sleep till morning light.
+            </h1>`,
+            `<h1>
+                When I’m troubled and afraid<br/>
+                I will trust in Thee and pray.<br/>
+                Jesus, tender Shepherd, hear me,<br/>
+                bless Thy little lamb tonight,<br/>
+                bless Thy little lamb tonight.
+            </h1>`,
+            `<h1>
+                All this day Thy hand has led me,<br/>
+                and I thank Thee for Thy care;<br/>
+                Thou has clothed me, warmed and fed me,<br/>
+                listen to my evening prayer.
+            </h1>`,
+            `<h1>
+                When I’m troubled and afraid<br/>
+                I will trust in Thee and pray.<br/>
+                Jesus, tender Shepherd, hear me,<br/>
+                bless Thy little lamb tonight,<br/>
+                bless Thy little lamb tonight.
+            </h1>`,
+            `<h1>
+                Yes, Jesus loves me!<br/>
+                Yes, Jesus loves me!<br/>
+                Yes, Jesus loves me!<br/>
+                The Bible tells me so.<br/>
+                The Bible tells me so.
+            </h1>`,
+        ]
+    },
+    38: {
+        key: '',
+        lyrics: [
+            `<h1>
+                Al mundo paz, nació Jesús,<br/>
+                nació ya nuestro Rey,<br/>
+                el corazón ya tiene luz,<br/>
+                y paz su santa grey,<br/>
+                y paz su santa grey,<br/>
+                y paz, y paz su santa grey.
+            </h1>`,
+            `<h1>
+                Al mundo paz, el Salvador<br/>
+                en Tierra reinará.<br/>
+                Ya es feliz el pecador.<br/>
+                Jesús perdón le da<br/>
+                Jesús perdón le da,<br/>
+                Jesús, Jesús perdón le da.
+            </h1>`,
+            `<h1>
+                Al mundo paz, gobernará<br/>
+                con gracia y con poder:<br/>
+                a las naciones probará<br/>
+                su amor y su poder<br/>
+                su amor y su poder<br/>
+                su amor, su amor y su poder.
+            </h1>`,
+        ]
+    },
+    39: {
+        key: '',
+        lyrics: [
+            `<h1>
+                Levántate, Iglesia del Señor<br/>
+                cálzate tu armadura!<br/>
+                Pues en Jesús, nuestro Gran Capitán<br/>
+                está nuestra fortaleza
+            </h1>`,
+            `<h1>
+                Con el escudo de la fe<br/>
+                al diablo no hemos de tem<br/>er
+                Ejército, armado de Amor<br/>
+                ve y alcanza a los perdidos
+            </h1>`,
+            `<h1>
+                Es tu misión, al mundo alcanzar<br/>
+                y enfrentar al enemigo<br/>
+                Con fe y valor batalla hemos de dar<br/>
+                la Palabra es nuestra espada
+            </h1>`,
+            `<h1>
+                Aunque haya pruebas por doquier<br/>
+                no hay imposibles para Él<br/>
+                Y así tendrá, lo que buscó al morir<br/>
+                una herencia de naciones
+            </h1>`,
+            `<h1>
+                Y allí en la cruz de amor y compasión<br/>
+                vemos a Cristo asolado<br/>
+                Mas aplastados yacen a los pies<br/>
+                del Señor sus enemigos
+            </h1>`,
+            `<h1>
+                Conquistador, se levantó<br/>
+                es Cristo que resucitó<br/>
+                Se cantará su triunfo hasta que<br/>
+                todo ojo pueda verlo
+            </h1>`,
+            `<h1>
+                Por gracia, oh Dios, infúndenos valor<br/>
+                Danos fuerza a cada paso<br/>
+                Danos la fe para el premio obtener<br/>
+                de un siervo fiel y bueno
+            </h1>`,
+            `<h1>
+                Las voces de quienes ayer<br/>
+                confiaron en tu provisión<br/>
+                aliento son en nuestro caminar<br/>
+                hasta estar con Él por siempre
+            </h1>`,
+        ]
+    },
+    40: {
+        key: '',
+        lyrics: [
+            `<h1>
+               Venid, glorificad a Dios<br/>
+                El Padre del Señor<br/>
+                En Cristo Él nos derramó<br/>
+                Su eterna bendición 
+            </h1>`,
+            `<h1>
+                Sin manchas, puros en su luz<br/>
+                Nos destinó a ser<br/>
+                Sus hijos adoptados<br/>
+                Por la sangre de Jesús
+            </h1>`,
+            `<h1>
+                Te daremos la gloria<br/>
+                Por tu gracia, bondad y amor<br/>
+                Te daremos la gloria<br/>
+                ¡Eres el salvador!
+            </h1>`,
+            `<h1>
+                Venid, glorificad a Dios<br/>
+                Que en Cristo gracia da<br/>
+                Lavadas nuestras culpas son<br/>
+                Tenemos redención
+            </h1>`,
+            `<h1>
+                En Él Dios ya nos reveló<br/>
+                Su eterna voluntad<br/>
+                Que sea Cristo el Señor<br/>
+                Su plan se cumplirá
+            </h1>`,
+            `<h1>
+                Te daremos la gloria<br/>
+                Por tu gracia, bondad y amor<br/>
+                Te daremos la gloria<br/>
+                ¡Eres el salvador!
+            </h1>`,
+            `<h1>
+                Venid, glorificad a Dios<br/>
+                Creyentes del Señor<br/>
+                El sello de su Espíritu<br/>
+                Por fe tenemos hoy
+            </h1>`,
+            `<h1>
+                Él garantiza nuestra fe<br/>
+                Hasta el día final<br/>
+                Nos uniremos a alabar<br/>
+                A nuestro trino Dios
+            </h1>`,
+            `<h1>
+                // Te daremos la gloria<br/>
+                Por tu gracia, bondad y amor<br/>
+                Te daremos la gloria<br/>
+                ¡Eres el salvador! //
+            </h1>`,
+        ]
+    },
 }
 
 export default updatedSongs
